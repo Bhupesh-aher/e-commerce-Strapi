@@ -11,7 +11,7 @@
     "deploy": "strapi deploy"
   },
   "dependencies": {
-    "@strapi/data-transfer": "^4.25.14",
+    "@strapi/data-transfer": "^5.1.1",
     "@strapi/plugin-cloud": "4.25.9",
     "@strapi/plugin-i18n": "4.25.9",
     "@strapi/plugin-users-permissions": "4.25.9",
