@@ -19,7 +19,7 @@ module.exports = [
   {
     name: 'strapi::cors',
     config: {
-      origin: ['https://e-commerce-react-eight-ashy.vercel.app/'], // Allow requests from the frontend URL
+      origin: ['https://e-commerce-react-eight-ashy.vercel.app'], // Allow requests from the frontend URL
       methods: ['GET', 'POST', 'PUT', 'DELETE'], // Allow specific HTTP methods
       // You can add other settings as needed, e.g.:
       credentials: true,
