@@ -15,6 +15,7 @@
     "@strapi/plugin-cloud": "4.25.9",
     "@strapi/plugin-i18n": "4.25.9",
     "@strapi/plugin-users-permissions": "4.25.9",
+    "@strapi/provider-upload-cloudinary": "^5.2.0",
     "@strapi/strapi": "4.25.9",
     "better-sqlite3": "8.6.0",
     "dotenv": "^16.4.5",
@@ -22,7 +23,6 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
-    "strapi-provider-upload-cloudinary": "^3.6.11",
     "stripe": "^16.9.0",
     "styled-components": "5.3.3"
   },
